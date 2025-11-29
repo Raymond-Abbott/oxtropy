@@ -1,3 +1,7 @@
+# Oxtropy — Manuscript Canon
+Version: 0.1-A
+Status: In Development
+
 Chapter One
 The Substrate
 
