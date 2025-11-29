@@ -1,0 +1,12 @@
+{
+  "project": "Oxtropy",
+  "type": "manuscript-canon",
+  "version": "0.1-A",
+  "author": "Raymond Abbott",
+  "description": "Oxtropy is the adaptive metabolism of entropy.",
+  "manuscript": {
+    "source": "manuscript/oxtropy-chapters-1-5.md",
+    "status": "in-development",
+    "chapters": 5
+  }
+}
