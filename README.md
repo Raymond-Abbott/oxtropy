@@ -1,5 +1,6 @@
 # oxtropy
 Oxtropy is the adaptive metabolism of entropy.
+
 Publication
 
 Oxtropy (Chapters 1–5)
